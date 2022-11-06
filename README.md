@@ -1,6 +1,7 @@
-<img width=200 src="https://user-images.githubusercontent.com/38268201/200138204-dd1c62ef-412b-4498-8b6f-2a5606031266.png">
-
 ## Hi there 👋
+
+
+<a href="https://app.daily.dev/kurianski"><img align="right" src="https://api.daily.dev/devcards/67752b47a871472b9328aacd12752504.png?r=3z0" width="280" alt="Matheus Kurianski's Dev Card"/></a>
 
 My name is **Matheus Aquati Kurianski** and I am a 22 years old **Software Engineer** at **Nubank**
 
