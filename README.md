@@ -6,7 +6,13 @@
   />
 </a>
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/matkurianski/matkurianski/blob/master/devcard.svg" width="300" alt="Matheus Kurianski's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips">
+  <img 
+       src="https://github.com/matkurianski/matkurianski/blob/main/devcard.svg" 
+       align="right"
+       width="300" 
+       alt="Matheus Kurianski's Dev Card"/>
+</a>
 
 My name is **Matheus Aquati Kurianski** and I am a 22 years old **Software Engineer** at **Nubank**
 
