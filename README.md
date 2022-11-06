@@ -1,7 +1,12 @@
 ## Hi there 👋
+<a href="https://www.linkedin.com/in/mkurianski/">
+  <img
+    src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+    alt="LinkedIn"
+  />
+</a>
 
-
-<a href="https://app.daily.dev/kurianski"><img align="right" src="https://api.daily.dev/devcards/67752b47a871472b9328aacd12752504.png?r=3z0" width="280" alt="Matheus Kurianski's Dev Card"/></a>
+<a href="https://app.daily.dev/kurianski"><img align="right" src="https://api.daily.dev/devcards/67752b47a871472b9328aacd12752504.png?r=3z0" width="300" alt="Matheus Kurianski's Dev Card"/></a>
 
 My name is **Matheus Aquati Kurianski** and I am a 22 years old **Software Engineer** at **Nubank**
 
