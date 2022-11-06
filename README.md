@@ -6,7 +6,7 @@
   />
 </a>
 
-<a href="https://app.daily.dev/DailyDevTips">
+<a href="https://app.daily.dev/kurianski">
   <img 
        src="https://github.com/matkurianski/matkurianski/blob/main/devcard.svg" 
        align="right"
