@@ -14,7 +14,7 @@
        alt="Matheus Kurianski's Dev Card"/>
 </a>
 
-My name is **Matheus Aquati Kurianski** and I am a 22 years old **Software Engineer** at **Nubank**
+My name is **Matheus Aquati Kurianski** and I am currently a **Software Engineer** at **Nubank**
 
 - 🔭 I’m currently working on building credit card products for underserved customers in Brazil, helping customers achieve their pre-approved credit card limit without having a financial history or even for those who were in debt in the past. I am using **Clojure** and **Datomic** with a **microservice architecture** to build a clear path to credit to those customers.
 
