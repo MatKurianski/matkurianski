@@ -20,7 +20,7 @@ My name is **Matheus Aquati Kurianski** and I am currently a **Software Engineer
 
 - 🏦 I previously worked at **Itaú Unibanco** as a Software Engineer and **PagSeguro PagBank** as a Data Science Intern
 
-- 🌱 I’m currently improving by acknowledgment on **Clojure** because it is one of the most fun technologies I have ever worked on! I also love to read about **scalability**, **data-intensive applications** and **software engineering** in general.
+- 🌱 I’m improving my knowledge of **Clojure** because it is one of the most fun technologies I have ever worked on! I also love to read about **scalability**, **data-intensive applications** and **software engineering** in general.
 
 - 👨‍💻 I have experience working with **Java, Kotlin, Clojure, SQL, PostgreSQL, DynamoDB, Datomic, AWS, Prometheus, Grafana, Splunk,** and a lot more technologies! 
 
